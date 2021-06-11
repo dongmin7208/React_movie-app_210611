@@ -1,0 +1,14 @@
+{
+    "prettier.jsonEnable": [
+
+        "json"
+    ],
+    "prettier.cssEnable": [
+
+        "css",
+        "less",
+        "scss",
+        "postcss"
+    ],
+    "prettier.vueIndentScriptAndStyle": true
+}
